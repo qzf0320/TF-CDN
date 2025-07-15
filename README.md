@@ -1,2 +1,2 @@
-# TF-CDN
-The code of TF-CDN will be released soon.
+# CoDA-Net
+The code of CoDA-Net will be released soon.
